@@ -1,4 +1,3 @@
-
 # Validate username password
 # Import connection and cursor object
 from models.connection import Connection
