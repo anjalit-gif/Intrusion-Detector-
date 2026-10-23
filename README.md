@@ -23,12 +23,18 @@ Statistics	SciPy (T-distribution test)
 Front end	HTML templates, JavaScript (captures key-press timestamps)
 
 Project Structure:
-├── main.py            # Flask app and routes (/, /login, /signup)
-├── views/             # UserView: registration and login logic
-├── models/            # Database models
-├── templates/         # index.html, Login.html, SignUp.html
-├── static/            # CSS / JS / assets
-└── requirements.txt   # Python dependencies
+
+main.py            # Flask app and routes (/, /login, /signup)
+
+views/             # UserView: registration and login logic
+
+models/            # Database models
+
+templates/         # index.html, Login.html, SignUp.html
+
+static/            # CSS / JS / assets
+
+requirements.txt   # Python dependencies
 
 Setup and Run Instructions:
 Clone the repository
